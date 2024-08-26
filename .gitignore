@@ -1,0 +1,7 @@
+venv*
+cfg.toml
+__pycache__
+test.py
+*egg-info
+.vscode
+build
